@@ -70,12 +70,15 @@ print(result,unans)
 ## Output
 
 **TRACER :**
+
 ![image](https://github.com/user-attachments/assets/38a573f4-8007-4a98-a2c9-2fb9eed73e10)
 
 **CLIENT :**
+
 ![image](https://github.com/user-attachments/assets/e47866f4-b8b1-46de-a2da-24b2428d8f18)
 
 **SERVER :**
+
 ![image](https://github.com/user-attachments/assets/c4d862e4-da99-4734-8308-2554bbba9fd3)
 
 ## Result
